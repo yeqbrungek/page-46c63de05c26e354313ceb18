@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "908debf806d0bc5764362172",
+  "owner": "yeqbrungek",
+  "repo": "page-46c63de05c26e354313ceb18",
+  "title": "猫咪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "46c63de05c26e354313ceb18",
+      "a": "猫咪",
+      "b": "稳定全球clash加速器",
+      "entity": "猫咪",
+      "brand": "猫咪",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "baf75a4ad5b5e08c92605fee55bb92aaf10366874ed7c66d2d434d3eb9fa62a0",
+      "content": {
+        "primary_entity": "猫咪",
+        "keyword1": "猫咪",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，可参考订阅导入文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求挑选套餐，按客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，这是一款面向全球线路的加速服务品牌，提供基础版、旗舰版和团队版三档套餐，支持按设备数量与流量需求灵活选择。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版适合多设备协作场景。客户端按 Windows、macOS、iOS、Android 等系统分别提供配置说明，订阅导入后即可在对应设备上使用。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度挑选合适的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合单人轻度使用；旗舰版每月 300GB、支持 5 台设备，覆盖多数家庭与个人场景。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量、支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与定制路由，适合小团队协作。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可选择年付周期。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "多人协作方案",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再按客户端说明完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "猫咪提供基础版、旗舰版与团队版三档套餐，覆盖不同流量与设备数量需求。选择套餐后，按对应客户端文档导入订阅，即可在常用设备上使用全球线路加速服务。",
+          "AI_HERO_SUBTITLE": "多设备加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "支持按年付，费用更划算",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与流媒体需求，团队版面向多人在线协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量消耗，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与线路类型，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅导入文档完成配置，即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "猫咪全球加速",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量选择即可。",
+          "AI_FAQ_ANSWER_2": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，可按游戏类型试用后决定。",
+          "AI_FAQ_ANSWER_3": "三档都支持年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FAQ_ANSWER_4": "iOS 可用 Shadowrocket 或 Stash，Android 用 Clash Meta，桌面端选 Clash Verge，按系统对应安装即可。",
+          "AI_FAQ_ANSWER_5": "流量用尽后可按月续费或升级套餐，团队版还能定制企业路由以匹配多设备协同场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "玩外服游戏选哪档套餐更合适？",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "不同系统该装哪个客户端？",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_TITLE": "套餐与使用常见问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ngfxkzt.cn",
+    "host": "ngfxkzt.cn"
+  },
+  "file_hashes": {
+    "index.html": "2e3f1e5b9324af986485ee6e87125bdb2b82205c01806e451ad8af03cf267b77",
+    "sitemap.xml": "b7f665ba44c26f9d2b00fd9eae04b119bd521733a012f3352e955e87a659321f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "651060fa0db04d5cb88d2a68c224744803f31dd49e368cd904433976c704e244",
+    "robots.txt": "7491bf0c955c932b232eed4f6fcc2d6c1cb10641c4a04980b69d37cdbd2fabf3",
+    "db89ceabb455136cfaded2da7b5af16d.txt": "21fd58c158a635698007816b0205ef7780eb0dee4176d5412e54fff40b9e9ec0"
+  },
+  "revision": "da9f41b46d1a514bc8e83b3589c5a9c5b6a971e98020fe60892499d2e4588dd7"
+}
